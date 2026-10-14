@@ -1,0 +1,64 @@
+# ─────────────────────────────────────────────────────────────
+#  MedDelta-RAG — .gitignore
+# ─────────────────────────────────────────────────────────────
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE-specific
+.idea/
+.vscode/
+*.swp
+*.swo
+*.suo
+.project
+.classpath
+
+# AI assistant tooling (not part of the research artifact)
+.claude/
+
+# OS-specific
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Generated data & results (not committed — regenerate with scripts)
+data/generated/*.csv
+data/generated/*.json
+data/generated/*.npy
+data/results/*.csv
+data/results/*.json
+data/results/*.jsonl
+
+# Model cache (downloaded automatically by sentence-transformers)
+.model_cache/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# uv / pip lockfile artifacts (uv.lock is intentionally committed for reproducibility)
+# *.lock

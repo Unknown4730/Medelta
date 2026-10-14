@@ -1,0 +1,242 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright © 2026 Prathamesh P Koli ("the Author"). All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PREAMBLE
+
+This License governs the use, reproduction, distribution, and modification of
+the software known as MedDelta-RAG and all associated source code, scripts,
+documentation, data models, configuration files, and research artifacts
+contained in this repository (collectively, the "Software").
+
+The Author has made the Software publicly accessible on GitHub for the purposes
+of academic inspection, peer review, and research transparency. Public
+accessibility does not constitute an open-source license and does not grant
+any rights beyond those explicitly described herein.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1 — GRANT OF LIMITED RIGHTS
+
+Subject to full compliance with this License, the Author grants you a
+worldwide, royalty-free, non-exclusive, non-transferable, non-sublicensable,
+revocable license to:
+
+  (a) VIEW the source code and documentation for the sole purpose of academic
+      reading, personal study, and peer review of the research described
+      therein;
+
+  (b) CLONE or DOWNLOAD a single private copy of the Software for personal,
+      non-commercial, academic study only;
+
+  (c) CITE the Software in academic publications, provided that the citation
+      accurately identifies the Author, the repository name (MedDelta-RAG),
+      and the year of first publication.
+
+No other rights are granted. All rights not expressly granted herein are
+reserved by the Author.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2 — RESTRICTIONS
+
+The following acts are STRICTLY PROHIBITED without the Author's prior written
+consent:
+
+  2.1  MODIFICATION: You may not modify, adapt, translate, reverse-engineer,
+       decompile, disassemble, or create derivative works based on the Software
+       or any portion thereof.
+
+  2.2  REDISTRIBUTION: You may not reproduce, distribute, publish, sublicense,
+       sell, resell, or transfer the Software or any portion thereof to any
+       third party, whether in original or modified form, whether for
+       commercial or non-commercial purposes.
+
+  2.3  COMMERCIAL USE: You may not use the Software, or any portion thereof,
+       directly or indirectly, in any commercial product, service, internal
+       tool, SaaS offering, consultancy deliverable, or revenue-generating
+       activity of any kind.
+
+  2.4  CLINICAL DEPLOYMENT: You may not deploy, integrate, or use the Software
+       or any portion thereof in any clinical, diagnostic, therapeutic,
+       patient-care, or healthcare-decision-making context, whether or not
+       regulatory approval has been obtained.
+
+  2.5  REMOVAL OF NOTICES: You may not remove, obscure, or alter any copyright
+       notice, attribution statement, disclaimer, or license notice contained
+       in the Software or its documentation.
+
+  2.6  ACADEMIC MISREPRESENTATION: You may not represent the Software, its
+       results, its methodology, or its outputs as your own original work. You
+       may not submit the Software or derivative descriptions of it to academic
+       venues without proper attribution to the Author.
+
+  2.7  FORKING FOR REDISTRIBUTION: You may fork the repository on GitHub for
+       the limited purpose of submitting pull requests or issue reports to the
+       Author. A fork does not grant you any ownership interest or additional
+       rights beyond those in Section 1. You may not make your fork publicly
+       visible with content that includes modifications to the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3 — RESEARCH AND ACADEMIC USE
+
+Notwithstanding Section 2, the following limited academic uses are permitted
+without written consent, provided that full attribution to the Author is
+included:
+
+  3.1  You may DESCRIBE the architecture, methodology, and results of this
+       Software in academic papers, theses, dissertations, technical reports,
+       or conference presentations, provided you accurately attribute the work
+       to the Author and clearly identify MedDelta-RAG as the source.
+
+  3.2  You may REPRODUCE SMALL EXCERPTS of the source code (no more than 20
+       consecutive lines) in academic publications solely for the purpose of
+       illustrating the described methodology, provided such use is accompanied
+       by a full citation.
+
+  3.3  You may RUN the Software on your local machine for the purpose of
+       reproducing the experimental results described in the associated
+       research paper, provided you do not distribute your results in a manner
+       that misrepresents them as independent original research.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4 — MEDICAL AND CLINICAL DISCLAIMER
+
+THE SOFTWARE IS A RESEARCH PROTOTYPE OPERATING EXCLUSIVELY ON SYNTHETIC,
+DE-IDENTIFIED DATA.
+
+  4.1  The Software is NOT a medical device, NOT a clinical decision support
+       system, and NOT validated, approved, or intended for use in any clinical
+       or patient-care context.
+
+  4.2  The Software has NOT been reviewed, cleared, or approved by the United
+       States Food and Drug Administration (FDA), the European Medicines Agency
+       (EMA), or any other national or international regulatory authority.
+
+  4.3  Any use of the Software in a clinical or patient-care context — in any
+       jurisdiction, for any patient population, under any regulatory
+       framework — is expressly and unconditionally prohibited.
+
+  4.4  THE AUTHOR EXPRESSLY DISCLAIMS ALL LIABILITY FOR ANY HARM, INJURY,
+       LOSS, OR DAMAGE ARISING FROM ANY CLINICAL, DIAGNOSTIC, OR THERAPEUTIC
+       USE OF THE SOFTWARE, WHETHER DIRECT, INDIRECT, CONSEQUENTIAL, SPECIAL,
+       EXEMPLARY, OR PUNITIVE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+       POSSIBILITY OF SUCH HARM.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5 — DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, RELIABILITY, NON-INFRINGEMENT,
+OR FREEDOM FROM DEFECTS.
+
+THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS,
+THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT ANY DEFECTS
+WILL BE CORRECTED.
+
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE RESTS WITH
+YOU. YOU ASSUME FULL RESPONSIBILITY FOR ANY CONSEQUENCES OF YOUR USE OF THE
+SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6 — LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE, INCLUDING BUT NOT LIMITED TO:
+
+  — Loss of data, revenue, profits, or business
+  — Indirect, incidental, special, consequential, or punitive damages
+  — Personal injury or property damage of any nature
+  — Any claim by a third party
+
+THIS LIMITATION APPLIES EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL
+PURPOSE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 7 — INTELLECTUAL PROPERTY
+
+  7.1  The Software and all intellectual property rights therein, including
+       but not limited to copyrights, trade secrets, patents, and know-how,
+       are and shall remain the sole and exclusive property of the Author.
+
+  7.2  Nothing in this License shall be construed as transferring any
+       ownership interest in the Software or any intellectual property rights
+       therein to you.
+
+  7.3  The Author reserves the right to file patent applications in any
+       jurisdiction covering the methods, algorithms, systems, and techniques
+       described in or implemented by the Software.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 8 — TERMINATION
+
+  8.1  This License is effective until terminated.
+
+  8.2  Your rights under this License terminate automatically and immediately,
+       without notice, upon any breach of its terms by you.
+
+  8.3  Upon termination, you must immediately cease all use of the Software
+       and destroy all copies in your possession or control.
+
+  8.4  Sections 4, 5, 6, 7, 9, and 10 shall survive termination of this
+       License.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 9 — GOVERNING LAW AND DISPUTE RESOLUTION
+
+  9.1  This License shall be governed by and construed in accordance with the
+       laws of India, without regard to its conflict-of-law provisions.
+
+  9.2  Any dispute arising from or relating to this License shall first be
+       attempted to be resolved through good-faith negotiation between the
+       parties.
+
+  9.3  If negotiation fails, disputes shall be submitted to the exclusive
+       jurisdiction of the competent courts located in India.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 10 — GENERAL PROVISIONS
+
+  10.1 ENTIRE AGREEMENT: This License constitutes the entire agreement between
+       you and the Author with respect to the Software and supersedes all prior
+       or contemporaneous understandings regarding its subject matter.
+
+  10.2 SEVERABILITY: If any provision of this License is found to be
+       unenforceable or invalid, that provision shall be limited or eliminated
+       to the minimum extent necessary, and the remaining provisions shall
+       continue in full force and effect.
+
+  10.3 NO WAIVER: The Author's failure to enforce any provision of this License
+       shall not constitute a waiver of future enforcement of that or any other
+       provision.
+
+  10.4 AMENDMENTS: The Author reserves the right to modify the terms of this
+       License for future versions of the Software. Any such modification does
+       not affect previously published versions.
+
+  10.5 PERMISSIONS: Requests for permissions not expressly granted herein,
+       including commercial licensing, clinical deployment licensing, or
+       research collaboration arrangements, may be directed to the Author.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+For permissions and licensing inquiries, contact the Author via GitHub.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+END OF LICENSE
